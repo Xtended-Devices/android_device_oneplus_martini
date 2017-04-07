@@ -55,11 +55,13 @@ PRODUCT_PACKAGES += \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget \
-    XtendedFrameworksResTarget
+    XtendedFrameworksResTarget\
+    WifiResMartini
 
 # Remove unwanted packages
 PRODUCT_PACKAGES += \
     RemovePackages
+
 
 
 # Power
