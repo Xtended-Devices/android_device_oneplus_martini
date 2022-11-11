@@ -46,6 +46,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     ApertureResTarget \
+    FaceUnlockServiceMartini \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget \
