@@ -57,6 +57,10 @@ PRODUCT_PACKAGES += \
     OPlusSystemUIResTarget \
     XtendedFrameworksResTarget
 
+# Remove unwanted packages
+PRODUCT_PACKAGES += \
+    RemovePackages
+
 
 # Power
 PRODUCT_COPY_FILES += \
